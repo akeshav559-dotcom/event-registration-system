@@ -1,2 +1,4 @@
 *.php linguist-language=PHP
+*.php linguist-detectable=true
 *.css linguist-detectable=false
+*.hack linguist-detectable=false
